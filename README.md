@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nikolai Khalatiani</h1>
-<h3 align="center">A passionate Computer Science student located in Georgia 🇬🇪</h3>
+<h3 align="center">A passionate Computer Science Student located in Georgia 🇬🇪</h3>
 
 - 🌱 I’m currently learning **Java, Spring, MariaDB**
 
